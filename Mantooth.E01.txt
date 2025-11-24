@@ -1,0 +1,48 @@
+﻿Created By AccessData® FTK® Imager 2.5.3.14 071018
+
+Case Information:
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Documents and Settings\Ken\Desktop\ADSHARE\Mantooth32:
+
+Physical Evidentiary Item (Source) Information:
+[Drive Geometry]
+ Cylinders: 15
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 250,879
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Mini USB Device
+ Drive Interface Type: USB
+ Source data size: 122 MB
+ Sector count:    250879
+[Computed Hashes]
+ MD5 checksum:    31217210a1a69f272079a3bde3d9d8fc
+ SHA1 checksum:   12e4ac047e328ca2bd63a4d65df25b3ecba55769
+
+Image Information:
+ Acquisition started:   Wed Jul 02 15:09:34 2008
+ Acquisition finished:  Wed Jul 02 15:09:54 2008
+ Segment list:
+  C:\Documents and Settings\Ken\Desktop\ADSHARE\Mantooth32.E01
+
+Image Verification Results:
+ Verification started:  Wed Jul 02 15:09:54 2008
+ Verification finished: Wed Jul 02 15:09:55 2008
+ MD5 checksum:    31217210a1a69f272079a3bde3d9d8fc : verified
+ SHA1 checksum:   12e4ac047e328ca2bd63a4d65df25b3ecba55769 : verified
+ COMPUTED HASH :  31217210a1a69f272079a3bde3d9d8fc
+ COMPUTED HASH :  12e4ac047e328ca2bd63a4d65df25b3ecba55769
+
+Image Verification Results:
+ Verification started:  Wed Oct 15 13:25:37 2025
+ Verification finished: Wed Oct 15 13:25:38 2025
+ MD5 checksum:    31217210a1a69f272079a3bde3d9d8fc : verified
+ SHA1 checksum:   12e4ac047e328ca2bd63a4d65df25b3ecba55769 : verified

@@ -1,0 +1,52 @@
+5:17 PM UTC 10/15/2025: I began my investigation of the Mantooth.E01 file.
+
+5:26 PM UTC 10/15/2025: For Flag #1, I loaded the image file (Mantooth.E01) into FTK Imager, right-clicked the evidence item in the left pane, and selected “Verify Image.” The MD5 hash appeared, confirming Flag #1.
+
+5:33 PM UTC 10/15/2025: I closed FTK Imager.
+
+5:36 PM UTC 10/15/2025: I opened Autopsy and created a new case using the Mantooth.E01 file.
+
+5:41 PM UTC 10/15/2025: I found Flag #2 by navigating to the OS Information tab in the left-hand pane of Autopsy. Under “NAME” in the right-hand pane, I determined that the main Windows account user is Wes Mantooth.
+
+5:48 PM UTC 10/15/2025: I found Flag #3 by selecting the OS Accounts tab in the left-hand pane of Autopsy. After clicking the Wes Mantooth login, I determined that the last user login was 2008-02-12 14:12:08 Mountain Standard Time.
+
+5:56 PM UTC 10/15/2025: To find Flag #4, I returned to the OS Information tab in the left-hand pane of Autopsy. Under “Program Name” in the right-hand pane, I identified the OS version as Windows Vista (TM) Ultimate.
+
+6:03 PM UTC 10/15/2025: I found Flag #5 by checking the SYSTEM registry hive. The time zone is actually Mountain Standard Time.  (SYSTEM > Control Set 1 > Control > TimeZoneInformation)
+
+6:11 PM UTC 10/15/2025: I found Flag #6 by selecting the USB Device Attached tab in the left-hand pane of Autopsy. I determined the make of the device is Silicon Integrated Systems Corp., the model is Super Flash 1GB / GXT 64MB Flash Drive, and the serial number is 0000000000C80F.
+
+6:24 PM UTC 10/15/2025: For Flag #7, I clicked on Web History in the left-hand pane of Autopsy and found three websites visited by the user:
+
+Google Images – “making meth”
+
+Google Images – “card stealing”
+
+sccja.org/images/csid_meth1.jpg
+
+6:41 PM UTC 10/15/2025: For Flag #8, I again checked Web History and found one suspicious website related to drug recipes.
+
+6:49 PM UTC 10/15/2025: I found Flag #9 by going to E-mail Messages → Default Folder in the left-hand pane of Autopsy. I filtered by “Has Attachment,” verified the e-mail was sent by Wes Mantooth, and extracted the attachment. It appeared to be a prescription document.
+
+7:01 PM UTC 10/15/2025: I found Flag #10 by navigating to Communication Accounts → E-mail in the left-hand pane. I identified the e-mail account dollarhyde86@comcast.net
+ as being used.
+
+7:23 PM UTC 10/15/2025: I found Flag #11 by selecting File Types → By MIME Type → Image → JPEG. I discovered three images: one showing a hidden camera at an ATM, one of drugs in a bag, and one of a person near an ATM, possibly from a hidden camera.
+
+7:43 PM UTC 10/15/2025: I found Flag #12 by going to Installed Programs in the left-hand pane of Autopsy. Installed programs included Adobe Reader (PDF viewer), VNC Free Edition (remote desktop application), and TrueCrypt (on-the-fly encryption software).
+
+8:07 PM UTC 10/15/2025: I found Flag #13 by going to the Run Programs tab in the left-hand pane. I noted that FTK Imager had been run on 2007-08-24 at 8:45:00 EDT, which suggests the user was familiar with forensic tools.
+
+8:20 PM UTC 10/15/2025: For Flag #14, I navigated to Deleted Files → All and searched through the entries. I found and extracted a deleted file labeled My Confession.txt.
+
+8:27 PM UTC 10/15/2025: I closed all related files and wrapped up my investigation for the day.
+
+11:54 PM UTC 10/17/2025: I reopened Autopsy to continue my investigation.
+
+12:17 AM UTC 10/18/2025: I found Flag #15, which included notable evidence of meth production, credit card theft, and a password.
+
+12:41 AM UTC 10/18/2025: I concluded my investigation.
+
+
+
+
